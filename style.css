@@ -4,8 +4,10 @@
     background-size: contain;
     background-repeat: no-repeat;
 }
-.bg-oranges {
-    background-image: url("/bg-oranges.jpg");
+.bg-forest {
+    background-image: url("/bg-forest.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .body-text {
     font-size: 1.25rem;
