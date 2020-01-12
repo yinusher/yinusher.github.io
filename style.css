@@ -4,7 +4,12 @@
     background-size: contain;
     background-repeat: no-repeat;
 }
+.bg-oranges {
+    background-image: url("/bg-oranges.jpg");
+}
 .body-text {
     font-size: 1.25rem;
 }
-
+.content {
+    background: linear-gradient(to bottom, #ffffff, #ffffff, transparent);
+}
