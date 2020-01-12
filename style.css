@@ -8,6 +8,7 @@
     background-image: url("/bg-forest.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: bottom;
 }
 .body-text {
     font-size: 1.25rem;
